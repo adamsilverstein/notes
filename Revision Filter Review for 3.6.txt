@@ -1,0 +1,3 @@
+Revision Filter Review for 3.6
+
+Add wp_revisions_to_keep in wp_revisions_to_keep() - looks good
